@@ -5,3 +5,4 @@ data/*
 *.pkl
 *.pt
 *.log
+.DS_Store
