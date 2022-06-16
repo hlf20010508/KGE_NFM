@@ -5,4 +5,3 @@ data/*
 *.pkl
 *.pt
 *.log
-!eg_model/dismult_400_warm_1_10.pkl

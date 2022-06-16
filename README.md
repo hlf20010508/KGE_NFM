@@ -2,6 +2,8 @@
 
 进入data文件夹运行对应数据集的.py文件来下载数据集
 
+进入eg_model文件夹运行eg_model.py来下载kge模型
+
 <br/>
 
 运行环境
